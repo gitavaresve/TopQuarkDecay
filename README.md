@@ -41,3 +41,6 @@ BoundPlots.nb: code to obtain the plots of Figs. 4, 5 and 6 of
 manuscript https://arxiv.org/abs/2208.05064.
 
 All files run under Mathematica 12.
+
+<a href="https://zenodo.org/badge/latestdoi/613506332"><img src="https://zenodo.org/badge/613506332.svg" alt="DOI"></a>
+
